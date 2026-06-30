@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/seleim77/Smart-Home-Guide-Book
+  baseUrl: seleim77.github.io/Smart-Home-Guide-Book/
   ignorePatterns:
     - private
     - templates
