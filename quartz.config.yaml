@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Smart_Home_Guide_Book
+  pageTitle: SmartHome Guide Book
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
